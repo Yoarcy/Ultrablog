@@ -27,6 +27,9 @@ body{
     border: 1px solid #ddd;
     margin: 0 auto;
 }
+#post{
+    padding: 0 1em;
+}
 #Container h1{
     font-size: 20px;
 }
