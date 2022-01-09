@@ -45,3 +45,12 @@ body{
     text-align: center;
     padding: .5em;
 }
+p img{
+    width: 80%;
+    height: 300px;
+}
+.img{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+}
