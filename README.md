@@ -1,6 +1,6 @@
 # Ultrablog 💚
 Un blog de repaso del del curso de [git y github](https://platzi.com/cursos/git-github/ "git y github") de [platzi](https://platzi.com "platzi")
->El curso de git y Github de platzi es lo que me hacía falta para triplicar mi salario y lanzarme a la industria del tjido de lana sintética con machine learnig.
+>El curso de git y Github de platzi es lo que me hacía falta para triplicar mi salario y lanzarme a la industria del tejido de lana sintética con machine learnig.
 
 >- Niñita
 
