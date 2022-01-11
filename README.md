@@ -11,6 +11,7 @@ Un blog de repaso del del curso de [git y github](https://platzi.com/cursos/git-
 * Trucs muy locos del profesor
 * Las personalidades multiples de Freddy
 * Creado por el increible Yoa
+* incluye ejemplos de Windous, Linux y Mac
 
 
 y como un amable recordatorio: **Este readme.md es un chiste**. diseñado para ejemplo. Si llegas a acá NO TE LO TOMES EN SERIO y mejor ve a[ **tomar el curso.**](https://platzi.com/cursos/git-github/ " tomar el curso.")
